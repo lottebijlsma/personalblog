@@ -5,8 +5,8 @@ date: 2017-10-08
 categories:
   - Inspiration
 description:
-image: http://res.cloudinary.com/lottebijlsma/image/upload/v1507464201/Blog/Inspiratie/Screen_Shot_2017-10-08_at_14.02.57.png
-image-sm: http://res.cloudinary.com/lottebijlsma/image/upload/v1507464201/Blog/Inspiratie/Screen_Shot_2017-10-08_at_14.02.57.png
+image: http://res.cloudinary.com/lottebijlsma/image/upload/v1507474530/Blog/Inspiratie/Screen_Shot_2017-10-08_at_14.02.57.png
+image-sm: http://res.cloudinary.com/lottebijlsma/image/upload/v1507474530/Blog/Inspiratie/Screen_Shot_2017-10-08_at_14.02.57.png
 ---
 Elke keer met een nieuw idee, nieuw concept of nieuw design komen is moeilijk. Maar moeilijk gaat ook hé! Hier een lijst van websites waarvan ik vaak inspiratie haal.
 
@@ -37,7 +37,7 @@ Zelf heb ik hier al een aantal keer coole en passende fonts gevonden. "Young Ser
 
 #### 3. Behance
 
-![Behance](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,h_800/v1507465853/Blog/Inspiratie/Screen_Shot_2017-10-08_at_14.30.27.png)
+![Behance](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,w_800/v1507474531/Blog/Inspiratie/Screen_Shot_2017-10-08_at_14.30.27.png)
 <figcaption>Hier zie je een paar voorbeelden van projecten die ik leuk vind.</figcaption>
 
 Voor degenen die niet weten wat Behance is. Behance is een platform dat mensen toelaat om hun werk met de wereld te delen; of dit nu fotografie, illustraties of motion graphics projecten zijn. Alles kan gedeeld worden. Door mensen te volgen zie je waar zij op reageren en ontdek je zo steeds nieuwere dingen.
@@ -46,13 +46,13 @@ Wat erg handig is, zijn de collecties. Die kun je net zoals bij Pinterest gebrui
 
 #### 3. Siteinspire
 
-![Siteinspire](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,h_800/v1507468308/Blog/Inspiratie/Screen_Shot_2017-10-08_at_15.11.22.png)
+![Siteinspire](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,w_800/v1507474530/Blog/Inspiratie/Screen_Shot_2017-10-08_at_15.11.22.png)
 
 Een showcase van mooie (interactieve) websites. Sinteinspire komt eigenlijk goed overeen met [Awwwards](https://www.awwwards.com), die ook interactieve websites toont. Persoonlijk vind ik Siteinspire net iets toffer, omdat er naar mijn gevoel meerdere en minder *sec* projecten op staan. Awwwards is naar mijn gevoel meer gefocust op interactiviteit en feedback, maar zeker ook zeer interessant.
 
 
 #### 5. Pinterest
-![Pinterest](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,h_800/v1507463989/Blog/Inspiratie/Screen_Shot_2017-10-08_at_13.59.28.png)
+![Pinterest](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,w_800/v1507474528/Blog/Inspiratie/Screen_Shot_2017-10-08_at_13.59.28.png)
 <figcaption>Spreekt redelijk voor zich, denk dat iedereen Pinterest wel kent.</figcaption>
 
 
