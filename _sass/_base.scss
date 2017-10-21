@@ -1,9 +1,12 @@
 /**
  * Base Variables
  */
-$font-header: 'Arial Black';
-$font-body: 'arial';
-$font-post: 'arial';
+$font-header: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+  'Fira Sans', 'Droid Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+$font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+  'Fira Sans', 'Droid Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+$font-post: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+  'Fira Sans', 'Droid Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
 $color-alpha: #0a0a0a;
 $color-alpha--light: #F4EFEF;
@@ -60,7 +63,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
-
   font-family: $font-header;
   font-weight: 800;
   line-height: 1.1;
@@ -103,6 +105,7 @@ h4 {
 
 p {
   margin: 0 0 0.75em;
+  font-size: 1rem;
 }
 
 a {
