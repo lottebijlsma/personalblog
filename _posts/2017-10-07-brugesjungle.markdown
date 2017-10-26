@@ -3,7 +3,6 @@ layout: post
 title: "De Brugse Jungle"
 date: 2017-10-07
 categories:
-  - Collection
   - Planten
 description:
 image: https://res.cloudinary.com/lottebijlsma/image/upload/v1507373129/Blog/Jungle%20of%20Bruges/_DSC0029.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don't think, just shoot"
-date: 2017-10-08
+date: 2017-10-26
 categories:
   - Lomography
 description:
