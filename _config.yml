@@ -17,9 +17,10 @@ name: Lotte Bijlsma
 profile_img: http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,h_800/v1507374566/Blog/Berlin%20Lomography/lotte-urbanspree.jpg
 profile: Hoi, ik ben Lotte. Momenteel een laatstejaars Devine student aan de Howest in Kortrijk. Binnenkort vertrek ik 3 maanden op stage, dit om mijn BA in Devine te finaliseren. Op deze blog breng ik verslag uit. Enjoy!
 social:
-  github: lottebijlsma
+  github: https://github.com/lottebijlsma/
 
 # Build settings
+include: ["_categories"]
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
