@@ -1,6 +1,6 @@
 # Site settings
 email: bijlsmalotte@gmail.com
-baseurl: "blog.lottebijlsma.be"
+baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics:
