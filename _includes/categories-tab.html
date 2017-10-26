@@ -10,7 +10,7 @@
     {% for category in sortedCats %}
       <li class="card">
         {% assign cat_dir = site.category_dir | default: 'category' %}
-        <a class="card__link" href="{{ site.baseurl }}/{{ cat_dir }}/{{ category | downcase | slugify }}/">
+        <a class="card__link" href="{{ site.baseurl }}/category/{{ category | downcase | slugify }}.html">
           {% for post in site.categories[category] limit: 1 %}
             <div class="card__img">
               {% if post.image-sm %}
@@ -23,7 +23,7 @@
           <div class="card__container">
             <h2 class="card__header">{{ category }}</h2>
             <p class="card__count">{{ site.categories[category] | size }} Posts</p>
-            <span class="card__more">zie alle posts</span>
+            <span class="card__more">View All</span>
           </div>
         </a>
       </li>
