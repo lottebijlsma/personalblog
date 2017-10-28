@@ -8,60 +8,56 @@ description:
 image: http://res.cloudinary.com/lottebijlsma/image/upload/v1507474530/Blog/Inspiratie/Screen_Shot_2017-10-08_at_14.02.57.png
 image-sm: http://res.cloudinary.com/lottebijlsma/image/upload/v1507474530/Blog/Inspiratie/Screen_Shot_2017-10-08_at_14.02.57.png
 ---
-Elke keer met een nieuw idee, nieuw concept of nieuw design komen is moeilijk. Maar moeilijk gaat ook hé! Hier een lijst van websites waarvan ik vaak inspiratie haal.
-
-
+Coming up with a new creative idea, a new concept or a new design is hard. But where's a will, there's a way. Here's a list of websites where I get my inspiration.
 
 
 #### 1. Typewolf
 
 ![Typewolf](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,h_800/v1507464847/Blog/Inspiratie/Screen_Shot_2017-10-08_at_14.13.53.png)
-<figcaption>Per project zie je welke fonts er gebruikt werden voor de site.</figcaption>
+<figcaption>You can see which fonts and typefaces were used for each project</figcaption>
 
-Typewolf is een showcase website die aantoont hoe verschillende fonts er uitzien op actuele sites. Vaak is dit veel handiger dan de standaard pangrammen zoals *"The quick brown fox jumps over the lazy dog"* of *"Sphinx of black quartz, judge my vow."*
-Alhoewel de meeste fonts betalend zijn (en meestal ver boven mijn budget liggen), gebruik ik deze site niet alleen voor font-inspiratie, maar ook voor algemene web design inspiratie.
+Typewolf is a site that showcases different fonts in the wild. It shows how fonts _really_ look on your site, and this is often much more convenient than the standard pangrams such as *"The quick brown fox jumps over the lazy dog"* or *"Sphinx of black quartz, judge my vow."*. Although you have to pay for most fonts (and they're way over my budget), I use this site not only for fontspiration, but also for regular web design inspiration.
 
-De geshowcasede websites zijn vaak erg cool en out of the box! Twee vliegen in één klap dus.
+The showcased websites are often really cool and out-of-the-box. Killing two birds with one stone!
 
 
 #### 2. Open Foundry
 
 ![Open source fonts](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,h_800/v1507465325/Blog/Inspiratie/Screen_Shot_2017-10-08_at_14.21.39.png)
 
-The Hot 30 van de *Open Foundry* is een collectie van gekende en vooral minder gekende open-source fonts. Dit betekent dat de fonts gedistribueerd zijn onder een open-source licentie, die ze gratis maken.
+The Hot 30 by *Open Foundry* is a collection of well known and [mostly] lesser known open-source fonts. This means that the fonts are distributed under an open-source license, which means they're free.
 
-Zelf heb ik hier al een aantal keer coole en passende fonts gevonden. "Young Serif" van Uplaod heb ik gebruikt voor m'n astrale projectie app omdat ik vond dat hij de Scandinavische sfeer, waar ik voor ging, zeker ondersteunde. Neem zeker een kijkje als je op zoek bent naar nieuwe fonts of als je een font-geek bent zoals ik 😉
-
-
+I have found a number of cool and appropriate fonts here, myself. For example "Young Serif" by Uplaod. I used this font for my astral projection app, because I really thought it fit and supported the Scandinavian atmosphere, where I went for. Certainly take a look at this site if you're looking for new fonts or if you're just a font geek, like me 😉
 
 
 #### 3. Behance
 
 ![Behance](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,w_800/v1507474531/Blog/Inspiratie/Screen_Shot_2017-10-08_at_14.30.27.png)
-<figcaption>Hier zie je een paar voorbeelden van projecten die ik leuk vind.</figcaption>
+<figcaption>A few projects I like</figcaption>
 
-Voor degenen die niet weten wat Behance is. Behance is een platform dat mensen toelaat om hun werk met de wereld te delen; of dit nu fotografie, illustraties of motion graphics projecten zijn. Alles kan gedeeld worden. Door mensen te volgen zie je waar zij op reageren en ontdek je zo steeds nieuwere dingen.
+For some of you who don't know what Behance is, Behance is a platform that allows people to share their work with the world. From motion graphics to photogrpahy, everything ca nbe shared. By following people, you can see what they like and like this you can discover new things along the way.
 
-Wat erg handig is, zijn de collecties. Die kun je net zoals bij Pinterest gebruiken om zo je gelikete projecten op te slaan per onderwerp. Zo kan je makkelijker alles terugvinden wanneer je iets nodig hebt.
+One thing I find very convenient on Behance are the collections. You can use it, just like Pinterest, to sort liked projects into different subjects. In this way, you can easily find something when you need some fresh inspiration.
+
 
 #### 3. Siteinspire
 
 ![Siteinspire](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,w_800/v1507474530/Blog/Inspiratie/Screen_Shot_2017-10-08_at_15.11.22.png)
 
-Een showcase van mooie (interactieve) websites. Sinteinspire komt eigenlijk goed overeen met [Awwwards](https://www.awwwards.com), die ook interactieve websites toont. Persoonlijk vind ik Siteinspire net iets toffer, omdat er naar mijn gevoel meerdere en minder *sec* projecten op staan. Awwwards is naar mijn gevoel meer gefocust op interactiviteit en feedback, maar zeker ook zeer interessant.
+Siteinspire is a showcase of beautiful (interactive) websites, just like [Awwwards](https://www.awwwards.com). Personally, I like Siteinspire more, because it's really about inspiration. I feel like Awwwards is more about receiving credit for your projects and getting feedback from others. But either way both are great inspirational sites.
 
 
 #### 5. Pinterest
 ![Pinterest](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,w_800/v1507474528/Blog/Inspiratie/Screen_Shot_2017-10-08_at_13.59.28.png)
-<figcaption>Spreekt redelijk voor zich, denk dat iedereen Pinterest wel kent.</figcaption>
+<figcaption>Speaks for itself! I think everyone I know, knows Pinterest</figcaption>
 
 
-#### Andere Eervolle Vermeldingen
-* [Vimeo](https://vimeo.com): Motion Graphics inspiratie
-* [Dribbble](https://dribbble.com): Motion Graphics & UX/UI Inspiratie
-* [Typographic Posters](https://www.typographicposters.com/posters): Speelse typografie & poster inspiratie
-* [Codepen](https://codepen.io): Platform voor code-probeersels
-* [Mobile Bucket on Dribbble](https://dribbble.com/emanuellikesdesign/buckets/262095-Mobile): Inspiratie voor mobile
-* [Lots of Logos](http://www.lotsoflogos.co.uk/): Gave logo inspiratie
-* [Letters From Sweden](https://lettersfromsweden.se/): Type foundry uit Zweden
-* [Awwwards](https://www.awwwards.com/): een showcase van (interactieve) websites
+#### Honourable mentions
+* [Vimeo](https://vimeo.com): Motion Graphics inspiration
+* [Dribbble](https://dribbble.com): Motion Graphics & UX/UI inspiration
+* [Typographic Posters](https://www.typographicposters.com/posters): Playful typography & poster inspiration
+* [Codepen](https://codepen.io): Platform for code inspiration
+* [Mobile Bucket on Dribbble](https://dribbble.com/emanuellikesdesign/buckets/262095-Mobile): Inspiration for mobile design
+* [Lots of Logos](http://www.lotsoflogos.co.uk/): Cool logo inspiration
+* [Letters From Sweden](https://lettersfromsweden.se/): Type foundry from Sweden
+* [Awwwards](https://www.awwwards.com/): Showcase of interactive websites

@@ -6,13 +6,13 @@ layout: default
   <header class="section-padding--lg mast">
     <a class="nav nav--white white" href="{{ site.baseurl }}/">
       <i class="fa fa-lg fa-arrow-left white"></i>
-      <span class='white'>Terug naar posts</span>
+      <span class='white'>Back to posts</span>
     </a>
     <figure class="absolute-bg mast__img" style="background-image: url('{{ page.image }}');"></figure>
     <div class="mast__container">
       <h1 itemprop="name headline">{{ page.title }}</h1>
       {% if page.categories.size > 0 %}
-        <span class='white'>Gepost in
+        <span class='white'>Posted in:
           {% for category in page.categories %}
             <a class="nav--white white" href="{{ site.baseurl }}/category/{{ category | downcase | slugify }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}
           {% endfor %}
@@ -55,7 +55,7 @@ layout: default
   <section class="next">
     <a class="next__link" href="{{page.previous.url | prepend: site.baseurl }}" style="background-image: url('{{ page.previous.image }}');">
       <div class="next__container">
-        <span>Volgend artikel</span>
+        <span>Next Post</span>
         <h2>{{page.previous.title}}</h2>
       </div>
     </a>
