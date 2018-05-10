@@ -14,37 +14,37 @@ Here are some pictures I took with my lomography camera and iPhone during the fi
 
 #### Sonniger Sonntag
 
-![Volkspark Friedrichshain](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177521/Blog/Berlinternship/38490012.jpg)
-![Volkspark Friedrichshain](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177560/Blog/Berlinternship/38490019.jpg)
-![Volkspark Friedrichshain](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177542/Blog/Berlinternship/38490016.jpg)
-![Volkspark Friedrichshain](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177551/Blog/Berlinternship/38490017.jpg)
+![Volkspark Friedrichshain](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177521/Blog/Berlinternship/38490012.jpg)
+![Volkspark Friedrichshain](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177560/Blog/Berlinternship/38490019.jpg)
+![Volkspark Friedrichshain](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177542/Blog/Berlinternship/38490016.jpg)
+![Volkspark Friedrichshain](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177551/Blog/Berlinternship/38490017.jpg)
 <figcaption>Giulia taking pictures as well, but she has a slightly cooler camera. ¯\_(ツ)_/¯</figcaption>
-![Volkspark Friedrichshain](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177560/Blog/Berlinternship/38490022.jpg)
-![Volkspark Friedrichshain](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177574/Blog/Berlinternship/38490026.jpg)
+![Volkspark Friedrichshain](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177560/Blog/Berlinternship/38490022.jpg)
+![Volkspark Friedrichshain](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177574/Blog/Berlinternship/38490026.jpg)
 
 <figcaption>Really enjoyed this sunday.</figcaption>
 
 #### Being a tourist (only partly)
-![Tiergarten](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177521/Blog/Berlinternship/38490032.jpg)
-![Tiergarten](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177517/Blog/Berlinternship/38490029.jpg)
-![Tiergarten](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177504/Blog/Berlinternship/38490031.jpg)
-![Tiergarten](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177577/Blog/Berlinternship/38490028.jpg)
-![Tiergarten](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177578/Blog/Berlinternship/38490027.jpg)
+![Tiergarten](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177521/Blog/Berlinternship/38490032.jpg)
+![Tiergarten](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177517/Blog/Berlinternship/38490029.jpg)
+![Tiergarten](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177504/Blog/Berlinternship/38490031.jpg)
+![Tiergarten](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177577/Blog/Berlinternship/38490028.jpg)
+![Tiergarten](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177578/Blog/Berlinternship/38490027.jpg)
 <figcaption>I love buildings. As you might have noticed on my Instagram.</figcaption>
-![Tiergarten](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177528/Blog/Berlinternship/38490034.jpg)
+![Tiergarten](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177528/Blog/Berlinternship/38490034.jpg)
 
-![Tiergarten](http://res.cloudinary.com/lottebijlsma/image/upload/v1522177545/Blog/Berlinternship/38490010.jpg)
+![Tiergarten](https://res.cloudinary.com/lottebijlsma/image/upload/v1522177545/Blog/Berlinternship/38490010.jpg)
 <figcaption>Life's great. Weather's not so.</figcaption>
 
 #### Through my iPhone
 
-![Museuminsel](http://res.cloudinary.com/lottebijlsma/image/upload/v1522008002/Blog/Berlinternship/290C8EC2-3175-4C9F-B700-51E53858BFDC.jpg)
-![Potsdamer Platz](http://res.cloudinary.com/lottebijlsma/image/upload/v1522008004/Blog/Berlinternship/BEB25A61-C8FA-490B-83FC-42A8BB83AEEB.jpg)
-![My Home](http://res.cloudinary.com/lottebijlsma/image/upload/v1522008215/Blog/Berlinternship/607F01FF-3E5E-48D5-A57C-F8D2EEA147C1.jpg)
-![Fernsehturm](http://res.cloudinary.com/lottebijlsma/image/upload/v1522007996/Blog/Berlinternship/4BBA3831-87F4-4EF3-B9BA-32571C19092F.jpg)
-![Mitte](http://res.cloudinary.com/lottebijlsma/image/upload/v1522008007/Blog/Berlinternship/E2998C07-0853-4E7E-9B0A-F82D4BE7397E.jpg)
-![Hackescher Markt](http://res.cloudinary.com/lottebijlsma/image/upload/v1522008004/Blog/Berlinternship/F5310330-83F6-45A4-ADE9-111F7D4E4D9A.jpg)
-![Potsdamer Platz](http://res.cloudinary.com/lottebijlsma/image/upload/v1522008005/Blog/Berlinternship/ADE3C496-E46A-402F-8D83-B2D02D8F3E6E.jpg)
-![Mitte](http://res.cloudinary.com/lottebijlsma/image/upload/v1522007999/Blog/Berlinternship/6BE24208-11D1-4A13-8E95-7F74B08A6237.jpg)
+![Museuminsel](https://res.cloudinary.com/lottebijlsma/image/upload/v1522008002/Blog/Berlinternship/290C8EC2-3175-4C9F-B700-51E53858BFDC.jpg)
+![Potsdamer Platz](https://res.cloudinary.com/lottebijlsma/image/upload/v1522008004/Blog/Berlinternship/BEB25A61-C8FA-490B-83FC-42A8BB83AEEB.jpg)
+![My Home](https://res.cloudinary.com/lottebijlsma/image/upload/v1522008215/Blog/Berlinternship/607F01FF-3E5E-48D5-A57C-F8D2EEA147C1.jpg)
+![Fernsehturm](https://res.cloudinary.com/lottebijlsma/image/upload/v1522007996/Blog/Berlinternship/4BBA3831-87F4-4EF3-B9BA-32571C19092F.jpg)
+![Mitte](https://res.cloudinary.com/lottebijlsma/image/upload/v1522008007/Blog/Berlinternship/E2998C07-0853-4E7E-9B0A-F82D4BE7397E.jpg)
+![Hackescher Markt](https://res.cloudinary.com/lottebijlsma/image/upload/v1522008004/Blog/Berlinternship/F5310330-83F6-45A4-ADE9-111F7D4E4D9A.jpg)
+![Potsdamer Platz](https://res.cloudinary.com/lottebijlsma/image/upload/v1522008005/Blog/Berlinternship/ADE3C496-E46A-402F-8D83-B2D02D8F3E6E.jpg)
+![Mitte](https://res.cloudinary.com/lottebijlsma/image/upload/v1522007999/Blog/Berlinternship/6BE24208-11D1-4A13-8E95-7F74B08A6237.jpg)
 
 <figcaption>Und so fort... Und so weiter..</figcaption>

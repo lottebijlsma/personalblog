@@ -18,7 +18,7 @@ During university, I had multiple group assignments. I found them very helpful a
 
 I learned that give and take is very important in every aspect. Also equality concerning the team members (whether they are a design director or a design intern) helps a lot for a good atmosphere. Equality within the team made me really feel at ease.
 
-![Team Events](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1525943091/Blog/What%20I%20learned%20at%20Espi/team.jpg)
+![Team Events](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1525943091/Blog/What%20I%20learned%20at%20Espi/team.jpg)
 <figcaption>Team work also comes in handy when you want to escape prison.</figcaption>
 
 #### Gives:
@@ -46,7 +46,7 @@ Daring to speak up is also something I’ve learned. When you’re doing an inte
 Speaking up in the way of expressing your likes and dislikes is also a good thing to do. From what I’ve heard, if the people that you’re working with know what you’d like to do or what you’re really good at, they’ll let you do it. If you don’t express any interest, you can end up cleaning Sketch files all day or preparing Keynotes. Fortunately, I had no problems with this whatsoever.
 
 
-![Great People](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1525943710/Blog/What%20I%20learned%20at%20Espi/greatppl.jpg)
+![Great People](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1525943710/Blog/What%20I%20learned%20at%20Espi/greatppl.jpg)
 
 But the final and most important takeaway is: **Don’t be an asshole.** I met a lot of cool people during my internship and I'm glad to call some of them my friends now.
 
