@@ -35,13 +35,13 @@ Says enough. You can only do so much. When you do your ultimate best on somethin
 #### Takes:
 
 ##### 1. Take in feedback
-A very imporant way to learn is to take in feedback properly. I’ve mentioned this before in this article but one way or another you will get feedback sometime and you will have to learn how to take it. Fortunately for me, I was already used on getting feedback on my designs in university. When given feedback, my tip is not to blindly change everything, but to think about it first. If you don’t understand where the feedback is coming or why it is like this, ask again. Understanding is key and will make you a better designer. Also the other person might be just giving suggestions, it’s up to you to create the best outcome possible, not to do what the other person said.
+A very important way to learn is to take in feedback properly. I’ve mentioned this before in this article but one way or another you will get feedback sometime and you will have to learn how to take it. Fortunately for me, I was already used on getting feedback on my designs in university. When given feedback, my tip is not to blindly change everything, but to think about it first. If you don’t understand where the feedback is coming or why it is like this, ask again. Understanding is key and will make you a better designer. Also the other person might be just giving suggestions, it’s up to you to create the best outcome possible, not to do what the other person said.
 
 ##### 2. Take your time, quick and dirty does not always do it
 I was very lucky to be put on a project that started when I arrived at Edenspiekermann. Within this project they really took the time to tackle everything. I thought this was interesting because they really gave me time to come up with a proper solution. I learned a lot by reading articles about UX-patterns online and implementing their suggestions into my own designs. Also, they handed me loads of time to explore different styles or make alternative components etc. which was super nice. Taking time, if possible, is a good thing to do, because you can spend attention to important details and your work is going to end up much more refined than a quick and dirty website. However, in some cases quick and dirty might just do fine ;)
 
 ##### 3. Take time to ask questions, dare to speak up and show that you’re eager to learn.
-Daring to speak up is also something I’ve learned. When you’re doing an internship you have to ask questions to learn. In general, you learn more through asking than sitting at your computer wasting hours trying to figure this tiny thing out because you’re too afraid to ask. The people there do realise that you’re an intern and your task is to learn, so they won’t judge you for dumb-ish questions :)
+Daring to speak up is also something I’ve learned. When you’re doing an internship you have to ask questions to learn. In general, you learn more through asking than sitting at your computer wasting hours trying to figure this tiny thing out because you’re too afraid to ask. The people there do realize that you’re an intern and your task is to learn, so they won’t judge you for dumb-ish questions :)
 
 Speaking up in the way of expressing your likes and dislikes is also a good thing to do. From what I’ve heard, if the people that you’re working with know what you’d like to do or what you’re really good at, they’ll let you do it. If you don’t express any interest, you can end up cleaning Sketch files all day or preparing Keynotes. Fortunately, I had no problems with this whatsoever.
 
@@ -65,3 +65,4 @@ For the ones still looking for that particular list:
 - I learned how to implement an RSS feed into a Slack channel 👍🏻
 - What the hell, I also finally got used to working with a magic mouse, external iMac screen and an external Keyboard. Am I a true designer now?
 - I am a part-time ping pong professional and have a really mean backhand (part-time because it’s only when I’m playing with the good bat)
+- ...
