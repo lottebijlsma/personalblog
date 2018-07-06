@@ -24,9 +24,9 @@ This list of shops make my little designer heart melt. It contains mostly interi
 
 ![HalleschesHaus](https://lh3.googleusercontent.com/VUHLSg2R_M13QrOAjUFMrXAVmXnIjLG821NhpkyFZjBfKfETrl5_NGSkF0UDsR8ZVEERKTlVR4rFg5QqOUF5tppnY4uUAkXZEWE8vDY3aoZB_NmdhX7RqF5HQyC24wuLqKHzQKUkDr_Ra9NdzyOsvn5JCd4jXC3kCbUTS6oYUJ6nKa_dmdayTLCJddznxqrP9qfI8oBP8r0ZGfpHqY3G4AtY2_jaoVlv1m6CI8xE8fQala0-PfwdKvu5AXaoOZfhOFNplXwzTc1MzxbTlJysonAhLCNN3y3b9H1segm560XXX4STo9rovmyXSiQj8LjxIjI3jImP0-5eMt1neBEoUzQa9RJ9vCZYg7NpB3AW-Z0HRSQht7l7tR903hcDC9A_2p7zkFLFGV9vuG2QjoSAwtukfp_D91SffOwUoTP5HjpiMPtp7y_YlFEZ3ONnuSj81eYC6hEew7oeRNqQiuVPxqtjwMkbvCOHGvnWfVm3fWFtm53d6mWYRWLzDj2_AF7MqMHuVYlScrAjO_bWmXjc_5TSrLtlRIG92abHQUm3WnzNOVDqIs4rddbAHJu2utQhWcssXBJYRmOEXE1f6l17zbWOiybo28x2Broe_8QuFCvgdEC5jsHse8d63P5o9Ex_iXiShNBHzWFjW9__wqf5lDdigrkE=w2160-h1620-no)
 
-As far as (interior) design stores go, the **[HAY store](https://hay.dk)** and **[Hallesches Haus](https://hallescheshaus.com/)** were my absolute favourites. I've mentioned Hallesches Haus before, but they're also a design store. Definitely a must visit if you're fond of brands such as HAY, [Ferm Living](https://www.fermliving.com/), [Serax](https://www.serax.com/home), [Studio Arhoj](https://arhoj.com/) etcetra. The picture above was taken in **[Schee](https://www.facebook.com/SCHEE.NET/)**, near Rosenthaler Platz. They had a lot of cool posters and interior design stuff there as well.
+Considering interior design, the **[HAY store](https://hay.dk)** and **[Hallesches Haus](https://hallescheshaus.com/)** were my absolute favourites. I've mentioned Hallesches Haus before, but they're also a design store. Definitely a must visit if you're fond of brands such as **[HAY](https://hay.dk)**, [Ferm Living](https://www.fermliving.com/), [Serax](https://www.serax.com/home), [Studio Arhoj](https://arhoj.com/) etcetra. The picture above was taken in **[Schee](https://www.facebook.com/SCHEE.NET/)**, near Rosenthaler Platz. They had a lot of cool posters and interior design stuff there as well.
 
-And last but not least, **[Modulor](https://www.modulor.de/en/)**. Modulor is like the IKEA for art students. I think every kind of designer could find its way over there. Whether you like embroidering, knitting, hand lettering, analog photography, painting or making scale models. Modulor has it all.
+And last but not least, **[Modulor](https://www.modulor.de/en/)**. Modulor is like the IKEA for art students. I think every kind of designer could find his/her way over there. Whether you like embroidering, knitting, hand lettering, analog photography, painting or making scale models. Modulor has it all.
 
 <br/>
 
@@ -36,9 +36,9 @@ And last but not least, **[Modulor](https://www.modulor.de/en/)**. Modulor is li
 
 #### Asian
 
-I don’t know if Berlin is known for Asian food, but — damn — I ate a lot of good Asian dishes there. My absolute favourite restaurants were **[PHO](http://pho.berlin/)** and **[House of Small Wonder](https://www.houseofsmallwonder.de/)**.
+I don’t know whether Berlin is known for Asian food, but — damn — I ate some good Asian dishes. My absolute favourite restaurants were **[PHO](http://pho.berlin/)** and **[House of Small Wonder](https://www.houseofsmallwonder.de/)**.
 
-Other places definitely worth mentioning are Umami, Madami, Long March Canteen and of course Maroush and Fadi for your usual late night Falafel ;)
+Other places definitely worth mentioning are [Umami](http://umami-restaurant.de/), [Madami](http://www.madami-restaurant.de/), [Long March Canteen](http://longmarchcanteen.com/) and of course Maroush and Fadi for your usual late night Falafel ;)
 
 #### Italian
 
@@ -53,7 +53,7 @@ Another nice Italian restaurant is **[Mädchentaliener](https://www.facebook.com
 I’m *such* a sweet tooth and I just can’t say no to something to nibble on with my (preferably iced) chai latte ;-)
 So of course, here's a list with the best muffins, cakes, cinnamon rolls of Berlin.
 
-For the best 👏🏻 cinnamon rolls 👏🏻 ever 👏🏻, you should be at **[Zeit Für Brot](https://zeitfuerbrot.com/)**. Come with an empty stomach because they're huge! Best cakes goes to **[Hallesches Haus](https://hallescheshaus.com/)**, and with a fair second place **[Queen of Muffins](https://www.facebook.com/Coffee-Deli-by-Queen-of-Muffins-1035240663188109/)** (because I went there literally every week to get their Banana Oatmeal Muffin 🤤).
+For the best 👏🏻 cinnamon rolls 👏🏻 ever 👏🏻, you should be at **[Zeit Für Brot](https://zeitfuerbrot.com/)**. Come with an empty stomach because they're huge! Best cakes goes to **[Hallesches Haus](https://hallescheshaus.com/)**, and with a fair second place **[Queen of Muffins](https://www.facebook.com/Coffee-Deli-by-Queen-of-Muffins-1035240663188109/)** (because I went there literally every week if not every day to get their Banana Oatmeal Muffin 🤤).
 
 Other places I'd definitely recommend are:
 
@@ -75,16 +75,16 @@ Other places I'd definitely recommend are:
 <br/>
 
 
-### 'Special' & Fun things to do
+### Things to do in Berlin
 
-Need to take a breath from the heavy stories you've been hearing about the history of Berlin? These things are ideal to clear your mind.
+Need to take a breath from the heavy stories you've been hearing about the history of Berlin or just want to do something different than your average tourist? Then the following things might be interesting for you.
 
 
 ![Kayaking](https://lh3.googleusercontent.com/81qFrv-cH-vSgKjtQvZaMZc05viBFUAaz96JGHLvTg0K_i0G9cStlE2IDYYGnwhgaDWg3nAa8tvvS_-RT6sgdKW9UhVYj-2IgY8kZXDgvBNORGsF5EiOtO5XbHnyIWc-8S4bDhacvMi32waCmFbB27yVDh1ll1QAQKonOL2FKZXJLLTGBj00avRHWm8aiGv12jhr0v_qb0XxB_1gskYHgc5PodZgsuTYMCFuVc5HRMU5bkER3KYAFskBLxIdvpPOdKy1Zx7zAZwaFIxZ2PDnmwVxeomvNaZ8MF1C2OXhi9zXO3Pyl57uaIEORZoLrijlVmFdwg4DjgvKgOslLjFtIE0FJLKbSLc3wnJlVUEEMwjRcTbzqRlX2wrEfPvb-8ljZU6R1WDYRevM0xwTAOaOf7OnIwfOGpWheusQFVvv1vHMUIRmRs55OLNBP0p_KIk1tkyFz414PQkKZZKnuCC9_4iF9iKSwNEOv1DAgQb1TRjZnuG9DoY5tXRsE5PI8m6CEvPuamD6Cv3hejHlBv6WaHSrylBM9msGPJ2o45o2MZWep5biVHzlxKC1OoLxwb2_BCoSZa_XtL_V_z0MnjV4QQ1VelWa9FUgKIKJmmeNvUK6hqbymjhN7J9WWQLraj9DQZGhlKrLETH3Bf1xNMuxolwDrNA=w2036-h1527-no)
 
-Berlin itself is super nice, but the surroundings of Berlin are not to be underestimated as well. Me and my colleagues once went **[kayaking in Spreewald](https://www.spreewald.de/en/canoe-and-boat-hire/)**. It wasn't the nicest area of the Spreewald, I think, but it was nice to unwind a bit and you definitely felt refreshed even though it was just an hour away from the city centre. Another nice place to unwind is **Wannsee**, a nice lake where you can relax a bit and have a casual barbecue. But be aware, [Freikörperkultur](https://en.wikipedia.org/wiki/FKK) (FKK), or nudism, is still a thing in Germany, definitely amongst elder people (correct me if I'm wrong, this is from what I've experienced). So if you're not used to this kind of freedom, be aware of where you're sitting. Some parts are 'reserved' for the FKK people. Me and my friends had to discover this for ourselves as well haha.
+Berlin itself is super nice, but the surroundings of Berlin are not to be underestimated as well. Me and my colleagues once went **[kayaking in Spreewald](https://www.spreewald.de/en/canoe-and-boat-hire/)**. It wasn't the nicest area of the Spreewald, I think, but it was nice to unwind a bit and I definitely felt refreshed even though it was just an hour away from the city centre. Another nice place to unwind is **Wannsee**, a nice lake where you can relax a bit and have a casual barbecue. But be aware, [Freikörperkultur](https://en.wikipedia.org/wiki/FKK) (FKK), or nudism, is still a thing in Germany, definitely amongst elder people (correct me if I'm wrong, this is from what I've experienced). So if you're not used to this kind of freedom, be aware of where you're sitting. Some parts are 'reserved' for the FKK people. Me and my friends had to discover this for ourselves as well haha.
 
-![BotanicalGardens](https://lh3.googleusercontent.com/Y4uS9svTswmyp_0WPM0rkK_Wkvhj5EXhnCpmQjPGCUo7dklItyFesaKPpYt72LFJwzIAGBHzzEHc_j0pbuCoYLcPWZhDgipcm6flI79S1QWp5BHOwhECQ9MVEvIgN_sbzLYHqWSP2FkEwat3BuEaFHOTMnCB5FjxmmaqfWbDZaC4KwSCJUm0icRiQYWYnwsPLHNfSkbz8K8_QIFeux5fV14t9a7H6xBbW-QLsZ46H1ASL6tNAikQb8DQpv3xvjKoXTpQGvuFqOqMltp1ZXKenmTZ5NhkmSGqWFGgRSaKATxCmKOWAxgfPoXqlhzKzqKIFKmfd_XMR4zjo2jHX_PE7Sos-3XRGdPc932ghxdzTfXBEbXdsgSxdwa_P-bAw2kAo3TSo4yRQDKfgpCKrX8uXE74F7Oh3TTKPe5zZ5fkK1hbI3ch7B_sOfg8YtFlTap64law2mx5zDI3zzh0rLjKdDmQYDQwKvaMloyeUXs3aP3_fihfVvGEBo5_dqlIr8LQVNZf_gIymdj6qpCE9Zv8wefCrBC-qDiI-EoyYQRQkzNxDW0DmtIb5y1Vw8JVR11GcwURIvYKVL2Jrgeq5rnlGff4kHGc4lF9Tw=w2204-h1652-no)
+![BotanicalGardens](https://lh3.googleusercontent.com/sk11EoiG1DBxD6zEQb2A2-jFFSeGaMo-_7fOInNAfsTrtKOKTf15lnFU7uxPvhvK7iP1kav0EyZpqxMUSe0welEfoQJUfP22-oSC-y3dOdTr8Dc_ySmUl-9VkaAsk3z2q9wBC1hZYV2RNdl_4u8nMPAqsCApV6zYe3C1U0kx6YWanQAy6o7zmiHa4Jju25kpB11T6ucMqTbhjTbkrpGNaeFq9mMt0yO9FaG_6cW3EIjLvHzh4X5k6ygySavv87Yk7pQLJE0p7OP1dndqOXtLVbS5UKj15bNYiEyhJU-24qKXJ5CsWyOUTW56LPCY9nGuV6F2vP0bt5TztN9kNEbf_4WZhT9TQXZkp4v7M5nOMs6dgdsspCmgkTzHJH7yzGPQpyY3Xlr1oqEyqGdWCqiYgXyxIBn5FtD6j7OpL9Gel4hh3YDWhqGhLa233IthKn_Qhsm7dpEAG3Qd2nbPr9Zv7L8cF1TvMJ6jI9XtDe3UCesqPQx652bZVDgJQwq-zV8xmlailf-Yhjo1Uh7lvOkZD7ZtvgrbBbRCiatwhDVeaNZ1PBCK0Eqsk38Mg2kCktqxMW6Yy2P_wjjCMysMVNkxSiGIZIglPyxpzA=w2203-h1652-no)
 
 Another fun thing to do — if you're into plants that is — is going to the **[Botanical Gardens of Berlin](https://www.bgbm.org/)**. They address every continent and its most astonishing plants. When you're there, it's like you're in a real jungle. I've often told myself to bring a book and just read there, but unfortunately that never happened, but that would definitely be an amazing experience. Besides the greenhouses, they also offer a big domain, where it almost feels like you're walking through a real forest. Super nice. Definitely would recommend – unless you're highly allergic to pollen of course and it's the hay fever season 🤷🏻‍
 
