@@ -4,6 +4,7 @@ title: "Stuff I captured"
 date: 2018-05-04
 categories:
   - Lomography
+  - Berlin
 description:
 image: https://res.cloudinary.com/lottebijlsma/image/upload/v1525461260/Blog/Berlin%20Lomography/Post2/000024320007.jpg
 image-sm: https://res.cloudinary.com/lottebijlsma/image/upload/v1525461260/Blog/Berlin%20Lomography/Post2/000024320007.jpg
