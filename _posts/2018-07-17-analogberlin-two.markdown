@@ -13,47 +13,47 @@ image-sm: https://lh3.googleusercontent.com/dPAnPCmzUnF13ByHYlAknJv2L_NpmjBuNJ4L
 I feel like my blog only consists out of Berlin posts, but that's totally fine ;) Last weekend I went on a little trip back to Berlin to visit my friends there. It was the perfect opportunity to test out some film. I decided shooting Agfa Vista 200 Plus & these are the results! Just a quick shout out to [Jet Foto](http://www.jet-foto.de/) in Berlin for having the most amazing picture development service. They're fast, friendly, relatively cheap and I can't complain about quality. So without further ado, here's some more memories, in chronological order.
 
 
-![Maybachufer](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835188/Blog/Berlin%20Analog%203/000006490007.jpg)
+![Maybachufer](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835188/Blog/Berlin%20Analog%203/000006490007.jpg)
 
-![flowers at Maybachufer](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835187/Blog/Berlin%20Analog%203/000006490008.jpg)
+![flowers at Maybachufer](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835187/Blog/Berlin%20Analog%203/000006490008.jpg)
 
-![Teaching Philippe what Analog Photography is](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835187/Blog/Berlin%20Analog%203/000006490009.jpg)
+![Teaching Philippe what Analog Photography is](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835187/Blog/Berlin%20Analog%203/000006490009.jpg)
 
-![Pasta](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835188/Blog/Berlin%20Analog%203/000006490010.jpg)
+![Pasta](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835188/Blog/Berlin%20Analog%203/000006490010.jpg)
 <figcaption>Having a picnic at Urban Spree with our own homemade (real Italian) pasta and fruit salad!</figcaption>
 
-![Giulia](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835189/Blog/Berlin%20Analog%203/000006490011.jpg)
+![Giulia](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835189/Blog/Berlin%20Analog%203/000006490011.jpg)
 
-![Friends](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835191/Blog/Berlin%20Analog%203/000006490012.jpg)
+![Friends](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835191/Blog/Berlin%20Analog%203/000006490012.jpg)
 
 
-![Friends2](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835190/Blog/Berlin%20Analog%203/000006490013.jpg)
+![Friends2](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835190/Blog/Berlin%20Analog%203/000006490013.jpg)
 
 <figcaption>Giulia, Philippe & Nicoletta</figcaption>
 
 
-![Bundestag](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835191/Blog/Berlin%20Analog%203/000006490018.jpg)
+![Bundestag](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835191/Blog/Berlin%20Analog%203/000006490018.jpg)
 
-![Bundestag](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835194/Blog/Berlin%20Analog%203/000006490022.jpg)
+![Bundestag](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835194/Blog/Berlin%20Analog%203/000006490022.jpg)
 
 <figcaption>Pictures from our visit to the Bundestag</figcaption>
 
-![View Bundestag](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835194/Blog/Berlin%20Analog%203/000006490021.jpg)
+![View Bundestag](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835194/Blog/Berlin%20Analog%203/000006490021.jpg)
 
 <figcaption>View on Potsdamer Platz & the Sony Center from the Bundestag</figcaption>
 
 
 
-![Checkpoint Charlie](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835195/Blog/Berlin%20Analog%203/000006490025.jpg)
-![Gendarmenmarkt](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835196/Blog/Berlin%20Analog%203/000006490029.jpg)
+![Checkpoint Charlie](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835195/Blog/Berlin%20Analog%203/000006490025.jpg)
+![Gendarmenmarkt](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835196/Blog/Berlin%20Analog%203/000006490029.jpg)
 
-![Beers](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,w_800/v1531835197/Blog/Berlin%20Analog%203/000006490032.jpg)
+![Beers](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,w_800/v1531835197/Blog/Berlin%20Analog%203/000006490032.jpg)
 <figcaption>Found this café near Hausvogteiplatz where they sold all these Belgian beers. They even had beer from "De Dolle Brouwers", which is a brewery near my house in Belgium.</figcaption>
 
-![PotsdamerPlatz](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835188/Blog/Berlin%20Analog%203/000006490033.jpg)
-![PotsdamerPlatz](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835188/Blog/Berlin%20Analog%203/000006490034.jpg)
+![PotsdamerPlatz](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835188/Blog/Berlin%20Analog%203/000006490033.jpg)
+![PotsdamerPlatz](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835188/Blog/Berlin%20Analog%203/000006490034.jpg)
 <figcaption>Potsdamer Platz</figcaption>
-![Espi Tote](http://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835188/Blog/Berlin%20Analog%203/000006490035.jpg)
+![Espi Tote](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835188/Blog/Berlin%20Analog%203/000006490035.jpg)
 <figcaption>Can't go anywhere without my Espi tote ;) </figcaption>
 
 <br/>
