@@ -31,6 +31,9 @@ I feel like my blog only consists out of Berlin posts, but that's totally fine ;
 
 <figcaption>Giulia, Philippe & Nicoletta</figcaption>
 
+![Friends3](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531838682/Blog/Berlin%20Analog%203/pin.png)
+<figcaption>Sorry, I'm cheating a littl, but I promise this is the only iPhone picture in this post ;)</figcaption>
+
 
 ![Bundestag](https://res.cloudinary.com/lottebijlsma/image/upload/c_scale,q_100,w_800/v1531835191/Blog/Berlin%20Analog%203/000006490018.jpg)
 
