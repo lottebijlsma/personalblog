@@ -3,7 +3,7 @@ layout: post
 title: "Don't think, just shoot"
 date: 2017-10-26
 categories:
-  - Lomography
+  - Analog
 description:
 image: https://res.cloudinary.com/lottebijlsma/image/upload/v1509035842/Blog/Berlin%20Lomography/thib-gent.jpg
 image-sm: https://res.cloudinary.com/lottebijlsma/image/upload/v1509035842/Blog/Berlin%20Lomography/thib-gent.jpg
