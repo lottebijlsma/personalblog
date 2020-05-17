@@ -67,6 +67,7 @@
 .previews {
 
   &__container {
+    border-right: 1px solid black;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -86,13 +87,11 @@
 
 .preview {
   transition: background-color 0.2s ease-in-out;
-
-  &:nth-child(even) {
-    background-color: #FAF7F7;
-  }
+  border-bottom: 1px solid black;
 
   &:hover {
     background-color: $color-alpha--light;
+
 
     .preview__more {
       color: $color-alpha;
@@ -112,7 +111,7 @@
     padding: 2em 1em;
 
     @media (min-width: $mq-md) {
-      padding: 4em 8em;
+      padding: 4em 4em;
     }
 
     @media (min-width: $mq-xxl) {
@@ -122,26 +121,29 @@
   }
 
   &__date {
-    color: #515151;
-    font-size: 1rem;
+    color: #888888;
+    font-size: .8rem;
     font-weight: 400;
+    font-family: "IBM Plex Mono";
+    text-transform: uppercase;
   }
 
   &__header {
-    margin-top: 1rem;
+    margin-top: .5rem;
     margin-bottom: 1rem;
     color: black;
     font-size: 1.7em;
-    font-weight: 800;
+    font-weight: 500;
+    font-family: "Manrope";
   }
 
   &__excerpt {
-    color: $color-black;
+    font-weight: 400;
+    color: #333333;
   }
 
   &__more {
     font-size: .8em;
-    text-transform: lowercase;
     text-decoration: underline;
     color: #515151;
   }
@@ -278,8 +280,9 @@
 
   &__archive {
     @include border-slide();
+    font-family: "Manrope"
 
-    @extend %letter-spacing;
+    // @extend %letter-spacing;
   }
 
   &__social {
@@ -304,14 +307,13 @@
  */
 .mast {
   position: relative;
-
-  height: 20em;
+  height: 30em;
 
   color: $color-white;
   background-color: $color-black;
 
   @media (min-width: $mq-sm) {
-    height: 35em;
+    height: 90vh;
   }
 
   &:after {
@@ -320,21 +322,26 @@
 
   &__img {
     animation: fade-in 2s both;
+    border-bottom: 1px solid black;
   }
 
-  &__container {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    height: 100%;
-    width: 90%;
-    margin: 0 auto;
-  }
+  // &__container {
+  //   display: flex;
+  //   flex-direction: column;
+  //   justify-content: center;
+  //   height: 100%;
+  //   width: 30%;
+  //   margin: 0 auto;
+  // }
 
   h1 {
+    font-family: "Manrope";
+    text-align: center;
 
     @media (min-width: $mq-md) {
       width: 75%;
+      margin: 0 auto;
+      text-align: center;
     }
   }
 }
@@ -397,10 +404,12 @@
 /**
  * Post
  */
+
 .post {
   width: 90%;
   max-width: $mq-md;
   margin: 0 auto;
+  padding-top: 2rem;
 
   font-family: $font-post;
 
@@ -471,6 +480,10 @@
 
     font-size: 0.75em;
     text-align: center;
+
+    @media (min-width: $mq-md) {
+    margin-bottom: 1rem;
+    }
   }
 }
 
@@ -488,8 +501,7 @@
   }
 
   &__card {
-    @include box-shadow(1px);
-
+    border: 1px solid black;
     display: flex;
     flex-direction: column;
 
@@ -513,6 +525,7 @@
     &:after {
       @extend %overlay;
     }
+
   }
 
   &__container {
@@ -526,6 +539,7 @@
     @media (min-width: $mq-md) {
       flex-basis: 55%;
       max-width: 55%;
+      border-top: 1px solid black;
     }
   }
 
@@ -546,6 +560,7 @@
  * On the Post page for single post pagination
  */
 .next {
+  margin-top: 3rem;
   background-color: $color-black;
 
   &__link {
