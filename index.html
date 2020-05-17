@@ -12,13 +12,12 @@ layout: default
   </div>
 
   <div>
-    <header>
+    <!-- <header>
       <ul class="tabs">
         <li class="tabs__item">Posts</li>
         <li class="tabs__item">Categories</li>
       </ul>
-    </header>
-
+    </header> -->
     <div class="tab">
       <ul itemscope itemtype="http://schema.org/Blog">
         {% for post in paginator.posts %}
@@ -27,7 +26,7 @@ layout: default
                 <span class="preview__date" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</span>
               <h2 class="preview__header" itemprop="name">{{ post.title }}</h2>
               <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
-              <span class="preview__more">read more</span>
+              <span class="preview__more">More</span>
             </a>
           </li>
         {% endfor %}
@@ -44,11 +43,10 @@ layout: default
           {% endif %}
         </div>
       {% endif %}
-
-      {% include archive-link.html %}
+      <!-- {% include archive-link.html %} -->
     </div>
-
-    {% include categories-tab.html %}
+<!-- 
+    {% include categories-tab.html %} -->
 
   </div>
 
